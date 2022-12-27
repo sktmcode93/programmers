@@ -136,5 +136,5 @@ const jumpOrTeleport = n => {
 
 }
 
-jumpOrTeleport(5);
+jumpOrTeleport(5); 
 
